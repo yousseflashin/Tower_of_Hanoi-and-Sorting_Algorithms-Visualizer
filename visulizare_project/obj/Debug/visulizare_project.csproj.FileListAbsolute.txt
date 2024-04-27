@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\bin\Debug\visulizare_project.exe.config
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\bin\Debug\visulizare_project.exe
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\bin\Debug\visulizare_project.pdb
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.exe
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.pdb
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.bubble_sort.resources
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.selction_sort.resources
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.insertion_sort.resources
+C:\Users\Admin\OneDrive\Desktop\Project\C#\visulizare_project\visulizare_project\obj\Debug\visulizare_project.Hanoi.resources
